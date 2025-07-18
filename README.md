@@ -43,11 +43,11 @@ This project focuses on predicting the **type of forest cover** based on **carto
 
 2. Install dependencies:
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3.Run the notebook:
 
-  jupyter notebook Forest_Cover_Classification.ipynb
+    jupyter notebook Forest_Cover_Classification.ipynb
 
 ---
 
